@@ -1,7 +1,8 @@
-# Streamlit_demo
+# Streamlit Demo Application
      
-## Reference:     
-https://medium.com/crossml/streamlit-2256000541ad      
+## References:     
+- https://medium.com/crossml/streamlit-2256000541ad      
+- https://medium.com/nerd-for-tech/how-to-deploy-streamlit-dashboard-with-heroku-ca00064402e8      
      
 ## Quick Start:     
 1. Clone this repository, and cd to its folder     
