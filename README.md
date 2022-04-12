@@ -15,7 +15,8 @@ https://medium.com/crossml/streamlit-2256000541ad
    (exit with ctrl+c)
     
 ## Heroku deploy   
-https://streamlit-demo-webapp.herokuapp.com     
+Relevant files:   Procfile, setup.sh, runtime.txt     
+WebApp URL:  https://streamlit-demo-webapp.herokuapp.com     
      
 ### Requirements     
 - Clone the project's Git repository
